@@ -1,4 +1,3 @@
-
 <h1 align="center">안녕하세요, 이정환입니다 👋</h1>
 
 <p align="center">
@@ -18,6 +17,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-PYNQ-red?style=flat-square"/>
 </p>
 
 ---
@@ -28,6 +28,10 @@
 |---------|------|------|
 | [**Industrial Anomaly Agent**](https://github.com/sauuri/industrial-anomaly-agent) | 산업 설비 실시간 고장 예측 + AI 분석 대시보드 | XGBoost · GPT-4o-mini · WebSocket · PostgreSQL |
 | [**Industrial RAG Assistant**](https://github.com/sauuri/industrial-rag-assistant) | 산업 문서 기반 AI 질의응답 시스템 | LangChain · FAISS · GPT-4o-mini |
+| [**KETI Research**](https://github.com/sauuri/KETI_jhlee) | KETI 재직 중 연구 — 신호처리, ML 최적화, 엣지 컴퓨팅 | scikit-learn · signal processing · Raspberry Pi |
+| [**FPGA Prosthetic PoC**](https://github.com/sauuri/fpga-prosthetic-poc) | FPGA 기반 EMG 제스처 분류 (레이턴시 3.6× 감소) | PYNQ-Z2 · FPGA · EMG |
+| [**Metallic Glass Classifier**](https://github.com/sauuri/hannam_university_AI4M_project) | 금속 유리 이진 분류 + 특성 선택 연구 | XGBoost · LightGBM · ANN |
+| [**EMG Wearable Study**](https://github.com/sauuri/emg-wearable-study) | 웨어러블 로보틱스용 EMG 신호 처리 연구 | EMG · signal processing |
 
 ---
 
@@ -43,8 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauuri&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauuri&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauuri&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
 </p>
 
 ---
