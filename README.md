@@ -27,6 +27,7 @@
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
 | [**Industrial Anomaly Agent**](https://github.com/sauuri/industrial-anomaly-agent) | 산업 설비 실시간 고장 예측 + AI 분석 대시보드 | XGBoost · GPT-4o-mini · WebSocket · PostgreSQL |
+| [**Paper to Shorts**](https://github.com/sauuri/paper-to-shorts) | PDF·URL → AI 스크립트 → TTS → 유튜브 숏츠 자동 생성 | GPT-4o-mini · OpenAI TTS · Pexels · moviepy |
 | [**Industrial RAG Assistant**](https://github.com/sauuri/industrial-rag-assistant) | 산업 문서 기반 AI 질의응답 시스템 | LangChain · FAISS · GPT-4o-mini |
 | [**KETI Research**](https://github.com/sauuri/KETI_jhlee) | KETI 재직 중 연구 — 신호처리, ML 최적화, 엣지 컴퓨팅 | scikit-learn · signal processing · Raspberry Pi |
 | [**FPGA Prosthetic PoC**](https://github.com/sauuri/fpga-prosthetic-poc) | FPGA 기반 EMG 제스처 분류 (레이턴시 3.6× 감소) | PYNQ-Z2 · FPGA · EMG |
