@@ -36,6 +36,7 @@
 | [**Cover Letter Analyzer**](https://github.com/sauuri/cover-letter-analyzer) | 자소서 + 직무 입력 → 점수·강점·약점·개선안 분석 | FastAPI · GPT-4o-mini | [▶ 실행](https://cover-letter-analyzer.onrender.com) |
 | [**Interview Coach**](https://github.com/sauuri/interview-coach) | 직무·회사 입력 → 맞춤형 면접 예상 질문 10개 생성 | FastAPI · GPT-4o-mini | [▶ 실행](https://interview-coach-1-1htt.onrender.com) |
 | [**Paper Summarizer**](https://github.com/sauuri/paper-summarizer) | arXiv URL → 논문 한국어 요약·기여·한계 정리 | arXiv API · GPT-4o-mini | [▶ 실행](https://paper-summarizer-jlth.onrender.com) |
+| [**AI Fitness Trainer**](https://github.com/sauuri/ai-fitness-trainer) | 목표·수준·부위 입력 → 맞춤 운동 루틴 + 동기부여 | FastAPI · GPT-4o-mini | [▶ 실행](https://ai-fitness-trainer-28oe.onrender.com) |
 
 #### 🔬 연구 & 시스템 프로젝트
 
