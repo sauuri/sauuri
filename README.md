@@ -25,9 +25,20 @@
 
 ### 🤖 AI Projects
 
+#### 🌐 라이브 데모 (Render 배포)
+
+| 프로젝트 | 설명 | 기술 | 데모 |
+|---------|------|------|:----:|
+| [**Multi-Agent Researcher**](https://github.com/sauuri/multi-agent-researcher) | 주제 입력 → 에이전트 4개가 자동 웹 검색·분석·보고서 생성 | LangGraph · Tavily · OpenAI | [▶ 실행](https://multi-agent-researcher-yj7c.onrender.com) |
+| [**YouTube Comment Analyzer**](https://github.com/sauuri/youtube-comment-analyzer) | YouTube URL → 댓글 감성 분석·키워드·요약 | YouTube API · GPT-4o-mini | [▶ 실행](https://youtube-comment-analyzer-1-f34e.onrender.com) |
+| [**Cover Letter Analyzer**](https://github.com/sauuri/cover-letter-analyzer) | 자소서 + 직무 입력 → 점수·강점·약점·개선안 분석 | FastAPI · GPT-4o-mini | [▶ 실행](https://cover-letter-analyzer.onrender.com) |
+| [**Interview Coach**](https://github.com/sauuri/interview-coach) | 직무·회사 입력 → 맞춤형 면접 예상 질문 10개 생성 | FastAPI · GPT-4o-mini | [▶ 실행](https://interview-coach-1-1htt.onrender.com) |
+| [**Paper Summarizer**](https://github.com/sauuri/paper-summarizer) | arXiv URL → 논문 한국어 요약·기여·한계 정리 | arXiv API · GPT-4o-mini | [▶ 실행](https://paper-summarizer-jlth.onrender.com) |
+
+#### 🔬 연구 & 시스템 프로젝트
+
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
-| [**Multi-Agent Researcher**](https://github.com/sauuri/multi-agent-researcher) | 주제 입력 → 에이전트 4개가 자동 웹 검색·분석·보고서 생성 | LangGraph · FastAPI · OpenAI |
 | [**Industrial RAG Assistant**](https://github.com/sauuri/industrial-rag-assistant) | 산업 문서 기반 AI 질의응답 시스템 | LangChain · FAISS · GPT-4o-mini |
 | [**Paper to Shorts**](https://github.com/sauuri/paper-to-shorts) | PDF·URL → AI 스크립트 → TTS → 유튜브 숏츠 자동 생성 | GPT-4o-mini · OpenAI TTS · moviepy |
 | [**Industrial Anomaly Agent**](https://github.com/sauuri/industrial-anomaly-agent) | 산업 설비 실시간 고장 예측 + AI 분석 대시보드 | XGBoost · WebSocket · PostgreSQL |
