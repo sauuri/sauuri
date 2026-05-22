@@ -27,6 +27,8 @@
 
 #### 🌐 라이브 데모 (Render 배포)
 
+> 🕐 무료 서버를 사용 중이라 첫 요청 시 약 50초 소요될 수 있습니다.
+
 | 프로젝트 | 설명 | 기술 | 데모 |
 |---------|------|------|:----:|
 | [**Multi-Agent Researcher**](https://github.com/sauuri/multi-agent-researcher) | 주제 입력 → 에이전트 4개가 자동 웹 검색·분석·보고서 생성 | LangGraph · Tavily · OpenAI | [▶ 실행](https://multi-agent-researcher-yj7c.onrender.com) |
