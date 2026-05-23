@@ -37,6 +37,8 @@
 | [**Interview Coach**](https://github.com/sauuri/interview-coach) | 직무·회사 입력 → 맞춤형 면접 예상 질문 10개 생성 | FastAPI · GPT-4o-mini | [▶ 실행](https://interview-coach-1-1htt.onrender.com) |
 | [**Paper Summarizer**](https://github.com/sauuri/paper-summarizer) | arXiv URL → 논문 한국어 요약·기여·한계 정리 | arXiv API · GPT-4o-mini | [▶ 실행](https://paper-summarizer-jlth.onrender.com) |
 | [**No-Zero-Day Fitness**](https://github.com/sauuri/ai-fitness-trainer) | 컨디션 분석 → 운동 실패 위험도 예측 → 맞춤 루틴 / 최소 실행 루틴 자동 변환 · 실패 원인 기록 & 패턴 분석 | FastAPI · GPT-4o-mini | [▶ 실행](https://ai-fitness-trainer-28oe.onrender.com) |
+| [**ResetPilot**](https://github.com/sauuri/reset-pilot) | 오늘 망한 날 복구 플랜 AI · 지금 할 수 있는 행동 3개 추출 · 패턴 분석 · 위기 상담 연결 | Next.js · GPT-4o-mini · Vercel | [▶ 실행](https://reset-pilot.vercel.app) |
+| [**방구조대**](https://github.com/sauuri/bang-gujodae) | 방 사진 → AI가 지금 당장 할 정리 순서만 제시 · detail:low 옵션으로 $0.0003/회 | Next.js · GPT-4o-mini Vision · Vercel | [▶ 실행](https://bang-gujodae.vercel.app) |
 
 #### 🔬 연구 & 시스템 프로젝트
 
@@ -54,6 +56,8 @@
 
 심심해서 만든 것들이에요.
 
+✈️ [ResetPilot](https://reset-pilot.vercel.app) &nbsp;·&nbsp;
+🚨 [방구조대](https://bang-gujodae.vercel.app) &nbsp;·&nbsp;
 🧬 [내 MBTI 진짜 맞아?](https://sauuri.github.io/mbti-real/) &nbsp;·&nbsp;
 💘 [나 짝사랑 중인가?](https://sauuri.github.io/crush-or-not/) &nbsp;·&nbsp;
 ⚖️ [이 결정, 해야 해 말아야 해?](https://sauuri.github.io/should-i-do-it/) &nbsp;·&nbsp;
