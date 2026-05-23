@@ -41,6 +41,7 @@
 | [**방구조대**](https://github.com/sauuri/bang-gujodae) | 방 사진 → AI가 지금 당장 할 정리 순서만 제시 · detail:low 옵션으로 $0.0003/회 | Next.js · GPT-4o-mini Vision · Vercel | [▶ 실행](https://bang-gujodae.vercel.app) |
 | [**쉽게말해줘**](https://github.com/sauuri/sipeumalhajwo) | 계약서·병원설명·오류메시지 → 부모님/초등학생/비전공자/어르신용 쉬운 설명 + 카톡 문장 생성 | Next.js · GPT-4o-mini · Vercel | [▶ 실행](https://sipeumalhajwo.vercel.app) |
 | [**버릴까**](https://github.com/sauuri/beorillka) | 물건 사진 → AI가 버릴지 보관할지 5가지 기준으로 판단 · 중고거래 문구 자동 생성 | Next.js · GPT-4o-mini Vision · Vercel | [▶ 실행](https://beorillka.vercel.app) |
+| [**뭐라하지**](https://github.com/sauuri/mworahahaji) | 소개팅·선배 만남·면접 대기실 등 상황·목적 입력 → 가볍게 시작/깊은 질문/피해야 할 주제 즉시 생성 | Next.js · GPT-4o-mini · Vercel | [▶ 실행](https://mworahahaji.vercel.app) |
 
 #### 🔬 연구 & 시스템 프로젝트
 
@@ -62,6 +63,7 @@
 🚨 [방구조대](https://bang-gujodae.vercel.app) &nbsp;·&nbsp;
 💬 [쉽게말해줘](https://sipeumalhajwo.vercel.app) &nbsp;·&nbsp;
 🪴 [버릴까](https://beorillka.vercel.app) &nbsp;·&nbsp;
+💬 [뭐라하지](https://mworahahaji.vercel.app) &nbsp;·&nbsp;
 🧬 [내 MBTI 진짜 맞아?](https://sauuri.github.io/mbti-real/) &nbsp;·&nbsp;
 💘 [나 짝사랑 중인가?](https://sauuri.github.io/crush-or-not/) &nbsp;·&nbsp;
 ⚖️ [이 결정, 해야 해 말아야 해?](https://sauuri.github.io/should-i-do-it/) &nbsp;·&nbsp;
