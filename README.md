@@ -25,7 +25,7 @@
 
 ### 🖤 NZD — No Zero Day
 
-> 운동 안 하는 날은 없다. 브랜드 사이트 → **[nzd-web.vercel.app](https://nzd-web.vercel.app)**
+> 운동 안 하는 날은 없다. 브랜드 사이트 → **[nzd-web.vercel.app](https://nzd-web.vercel.app)** · [GitHub](https://github.com/sauuri/nzd-web)
 
 ---
 
