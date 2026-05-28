@@ -49,6 +49,18 @@ LLM을 실시간 개발 파트너로 활용해 개발 속도를 높이는 방식
 
 ---
 
+### 🔬 연구 & 시스템 프로젝트
+
+| 프로젝트 | 설명 | 기술 |
+|---------|------|------|
+| [**Industrial RAG Assistant**](https://github.com/sauuri/industrial-rag-assistant) | 산업 문서 기반 AI 질의응답 시스템 | LangChain · FAISS · GPT-4o-mini |
+| [**Paper to Shorts**](https://github.com/sauuri/paper-to-shorts) | PDF·URL → AI 스크립트 → TTS → 유튜브 숏츠 자동 생성 | GPT-4o-mini · OpenAI TTS · moviepy |
+| [**Industrial Anomaly Agent**](https://github.com/sauuri/industrial-anomaly-agent) | 산업 설비 실시간 고장 예측 + AI 분석 대시보드 | XGBoost · WebSocket · PostgreSQL |
+| [**KETI Research**](https://github.com/sauuri/KETI_jhlee) | KETI 재직 중 연구 — 신호처리, ML 최적화, 엣지 컴퓨팅 | scikit-learn · signal processing |
+| [**FPGA Prosthetic PoC**](https://github.com/sauuri/fpga-prosthetic-poc) | FPGA 기반 EMG 제스처 분류 (레이턴시 3.6× 감소) | PYNQ-Z2 · FPGA · EMG |
+
+---
+
 ### 🤖 AI Projects
 
 #### 🌐 라이브 데모 (Render 배포)
@@ -70,16 +82,6 @@ LLM을 실시간 개발 파트너로 활용해 개발 속도를 높이는 방식
 | [**뭐라하지**](https://github.com/sauuri/mworahahaji) | 소개팅·선배 만남·면접 대기실 등 상황·목적 입력 → 가볍게 시작/깊은 질문/피해야 할 주제 즉시 생성 | Next.js · GPT-4o-mini · Vercel | [▶ 실행](https://mworahahaji.vercel.app) |
 | [**대충요리**](https://github.com/sauuri/daechungyori) | 있는 재료 + 기력 입력 → 지금 만들 수 있는 요리 추천 · 설거지 목록 · 더 간단한 거 재추천 | Next.js · GPT-4o-mini · Vercel | [▶ 실행](https://daechungyori.vercel.app) |
 | [**시킬까말까**](https://github.com/sauuri/sikilkamalkka) | 배달 주문 직전 메뉴·기분·돈 상태 입력 → 시켜/10분 보류/참아 판정 · 10분 타이머 · 대체 메뉴 제안 | Next.js · GPT-4o-mini · Vercel | [▶ 실행](https://sikilkamalkka.vercel.app) |
-
-#### 🔬 연구 & 시스템 프로젝트
-
-| 프로젝트 | 설명 | 기술 |
-|---------|------|------|
-| [**Industrial RAG Assistant**](https://github.com/sauuri/industrial-rag-assistant) | 산업 문서 기반 AI 질의응답 시스템 | LangChain · FAISS · GPT-4o-mini |
-| [**Paper to Shorts**](https://github.com/sauuri/paper-to-shorts) | PDF·URL → AI 스크립트 → TTS → 유튜브 숏츠 자동 생성 | GPT-4o-mini · OpenAI TTS · moviepy |
-| [**Industrial Anomaly Agent**](https://github.com/sauuri/industrial-anomaly-agent) | 산업 설비 실시간 고장 예측 + AI 분석 대시보드 | XGBoost · WebSocket · PostgreSQL |
-| [**KETI Research**](https://github.com/sauuri/KETI_jhlee) | KETI 재직 중 연구 — 신호처리, ML 최적화, 엣지 컴퓨팅 | scikit-learn · signal processing |
-| [**FPGA Prosthetic PoC**](https://github.com/sauuri/fpga-prosthetic-poc) | FPGA 기반 EMG 제스처 분류 (레이턴시 3.6× 감소) | PYNQ-Z2 · FPGA · EMG |
 
 ---
 
