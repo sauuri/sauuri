@@ -44,7 +44,7 @@ LLM을 실시간 개발 파트너로 활용해 개발 속도를 높이는 방식
 | 앱 | 설명 | 상태 |
 |----|------|:----:|
 | [**NZD AI Fitness**](https://github.com/sauuri/ai-fitness-trainer) | 컨디션 분석 → AI 맞춤 운동 루틴 · MET 칼로리 · 달력 기록 | [![App Store](https://img.shields.io/badge/App%20Store-출시됨-f97316?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/no-zero-day/id6773026197) |
-| [**Reset Pilot**](https://github.com/sauuri/reset-pilot) | 지금 이 순간부터 다시 시작하는 리셋 앱 | ![심사중](https://img.shields.io/badge/App%20Store-심사%20중-6366f1?style=flat-square&logo=apple&logoColor=white) |
+| [**Reset Pilot**](https://github.com/sauuri/reset-pilot) | 지금 이 순간부터 다시 시작하는 리셋 앱 | [![App Store](https://img.shields.io/badge/App%20Store-출시됨-6366f1?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/reset-pilot-%EB%A7%9D%EC%B9%9C-%ED%95%98%EB%A3%A8-%EB%B3%B5%EA%B5%AC/id677296309) |
 | [**방구조대**](https://github.com/sauuri/bang-gujodae) | 방 사진 → AI가 지금 당장 할 정리 순서만 · 어지러움 점수 · Before/After 비교 · 스트릭 기록 | [![App Store](https://img.shields.io/badge/App%20Store-출시됨-16a34a?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/app/%EB%B0%A9%EA%B5%AC%EC%A1%B0%EB%8C%80/id6773190142) |
 
 ---
